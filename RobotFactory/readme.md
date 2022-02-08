@@ -5,5 +5,5 @@ Problem is to create a java program to represent a factory robot controller that
 2. Drilling robot 
 3. Assemblt robot
 # Important specification 
-a. We can only one instance of the assembly robot (singleton DP) 
-b. Don't repeat same info in multiple objects of the same class. 
+1. We can only one instance of the assembly robot (singleton DP) 
+2. Don't repeat same info in multiple objects of the same class.  
