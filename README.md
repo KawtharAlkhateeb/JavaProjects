@@ -1,2 +1,3 @@
 # JavaProjects
-this is where all my java work will be. 
+Here you will find all Java projects I have worked on in my academic career. 
+
